@@ -7,9 +7,6 @@ An external cs2 bunnyhop, which works in fullscreen, menu is command prompt, abl
 # DISCLAIMER
 ## I didnt test this in prime or non prime, use at your own risk
 
-This project is proprietary and not licensed for public use. 
-All rights are reserved by the author.
-
 ### Want to compile yourself?
 1. Download Visual Studio 2022
 2. Create an Empty Project and name it whatever you want
@@ -25,3 +22,7 @@ All rights are reserved by the author.
 12. Click Local Windows Debugger/ Do Ctrl+Shift+B / Build Solution
 13. Go to the folder where your solution/.exe was built
 14. Open and enjoy
+
+
+This project is proprietary and not licensed for public use. 
+All rights are reserved by the author.
